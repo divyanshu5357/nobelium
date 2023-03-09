@@ -1,0 +1,2 @@
+git stash apply - git stash apply leaves topmost stash [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D coomand  [3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmmand - it leaves topmost stash on stash list so that we can use later 
+git stash pop command  -  it removes topmost or latest stash on stash list 
